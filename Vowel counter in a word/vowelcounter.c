@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-main () {
+void main () {
     char mensagem[100];
     int i;
     int j;
